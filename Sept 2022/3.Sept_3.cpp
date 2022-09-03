@@ -1,3 +1,4 @@
+// 967. Numbers With Same Consecutive Differences
 class Solution {
 public:
     vector<int> numsSameConsecDiff(int n, int k) {
