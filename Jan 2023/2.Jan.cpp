@@ -1,3 +1,4 @@
+// 520. Detect Capital
 class Solution {
 public:
     bool detectCapitalUse(string word) {
