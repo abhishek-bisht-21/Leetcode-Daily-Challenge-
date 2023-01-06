@@ -1,6 +1,4 @@
 // 1833. Maximum Ice Cream Bars
-1833. Maximum Ice Cream Bars
-
 class Solution {
 public:
     int maxIceCream(vector<int>& costs, int coins) {
